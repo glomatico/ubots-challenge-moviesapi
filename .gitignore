@@ -3,3 +3,4 @@ __pycache__
 !moviesapi
 !.gitignore
 !README.md
+!requirements.txt
